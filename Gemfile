@@ -33,7 +33,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # Reduces boot times through caching; required in config/boot.rb
-gem 'bootstrap-sass', '>= 3.3.7', require: true
+gem 'bootstrap', '~> 4.1.3'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
