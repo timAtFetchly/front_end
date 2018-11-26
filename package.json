@@ -1,5 +1,7 @@
 {
   "name": "front_end",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }
