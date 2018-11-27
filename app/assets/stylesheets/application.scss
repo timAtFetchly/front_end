@@ -1,7 +1,12 @@
-// Custom bootstrap variables must be set or imported *before* bootstrap.
+//@import "bootstrap-sprockets";
 @import "bootstrap";
 
-
-/* Use @import to import Sass files.
-   Do not use *= require in Sass.
- */
+//.navbar-header {
+//  font-size: 50px;
+//}
+//
+//.navbar-default {
+//  font-size: 18px;
+//  background-color: rgba(255, 255, 255, 1);
+//  border-bottom-width: 0px;
+//}
